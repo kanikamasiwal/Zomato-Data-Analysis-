@@ -29,10 +29,10 @@ This repository contains SQL queries and scripts to analyze the Zomato restauran
 ### Correlation Between Average Cost for Two and Aggregate Rating:
  - Calculates the correlation coefficient between the average cost for two and the aggregate rating of restaurants.
 
-## Restaurant with Highest Number of Votes and Average Rating:
+### Restaurant with Highest Number of Votes and Average Rating:
  - Finds the restaurant with the highest number of votes and its average rating.
 
-## Impact of Table Booking and Online Delivery on Aggregate Rating:
+### Impact of Table Booking and Online Delivery on Aggregate Rating:
  - Analyzes how the availability of table booking and online delivery impacts the aggregate rating of restaurants.
 
 ### Percentage of Restaurants with Online Delivery but No Table Booking:
